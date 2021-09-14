@@ -1,2 +1,2 @@
 # Burcu_Belen
--Kodluyoruz- İzmir Veri Bilimi Bootcamp
+**Kodluyoruz** İzmir Veri Bilimi Bootcamp
